@@ -28,10 +28,10 @@ test("API: menu, walidacja, zapis i zachowanie danych po ponownym otwarciu", asy
   });
   const menu = await (await fetch(`${base}/api/menu`)).json();
   assert.equal(menu.categories.length, 4);
-  assert.equal(menu.categories.flatMap(category => category.dishes).length, 12);
+  assert.equal(menu.categories.flatMap(category => category.dishes).length, 21);
   db.prepare("UPDATE dishes SET available = 0 WHERE id = 1").run();
   const updatedMenu = await (await fetch(`${base}/api/menu`)).json();
-  assert.equal(updatedMenu.categories.flatMap(category => category.dishes).length, 11);
+  assert.equal(updatedMenu.categories.flatMap(category => category.dishes).length, 20);
   const valid = { customer_name: "Jan Kowalski", email: "jan@example.com", phone: "+48 123 456 789",
     reservation_date: "2026-10-28", reservation_time: "18:30", guests: 4, notes: "Przy oknie" };
   for (const change of [
@@ -57,7 +57,7 @@ test("API: menu, walidacja, zapis i zachowanie danych po ponownym otwarciu", asy
   db.close();
   db = openDatabase(filename);
   assert.equal(db.prepare("SELECT count(*) AS count FROM reservations").get().count, 2);
-  assert.equal(db.prepare("SELECT count(*) AS count FROM dishes").get().count, 12);
+  assert.equal(db.prepare("SELECT count(*) AS count FROM dishes").get().count, 21);
   assert.equal(db.prepare("SELECT available FROM dishes WHERE id = 1").get().available, 0);
   assert.equal(db.prepare("SELECT notes FROM reservations WHERE id = 2").get().notes, "Przy oknie");
 });
