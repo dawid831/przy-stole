@@ -7,29 +7,29 @@ Wersja bazowa wykorzystuje oryginalne pliki JPEG bez dodatkowej kompresji, zmian
 
 | Plik | Autor | Licencja | Wymiary (px) | Rozmiar (bajty) |
 | --- | --- | --- | --- | --- |
-| `interior/bar.jpg` | Niezweryfikowany | [Pexels][license] | 4952 × 3306 | 3 614 100 |
-| `interior/sala.jpg` | Niezweryfikowany | [Pexels][license] | 2252 × 4000 | 1 215 205 |
-| `menu/woda.jpg` | Niezweryfikowany | [Pexels][license] | 3640 × 5929 | 947 177 |
-| `menu/espresso.jpg` | Niezweryfikowany | [Pexels][license] | 1717 × 3716 | 576 365 |
-| `menu/lemoniada.jpg` | Niezweryfikowany | [Pexels][license] | 2744 × 3842 | 1 555 810 |
-| `menu/panna_cotta.jpg` | Niezweryfikowany | [Pexels][license] | 3000 × 4000 | 1 004 849 |
-| `menu/tiramisu.jpg` | Niezweryfikowany | [Pexels][license] | 2972 × 2378 | 876 370 |
-| `menu/ortolana.jpg` | Niezweryfikowany | [Pexels][license] | 6000 × 4000 | 3 249 202 |
-| `menu/funghi.jpg` | Niezweryfikowany | [Pexels][license] | 6000 × 4000 | 3 552 413 |
-| `menu/salame.jpg` | Niezweryfikowany | [Pexels][license] | 3000 × 2003 | 787 019 |
-| `menu/margherita.jpg` | Niezweryfikowany | [Pexels][license] | 5779 × 7705 | 5 108 727 |
-| `menu/capriciosa.jpg` | Niezweryfikowany | [Pexels][license] | 4000 × 2667 | 1 313 707 |
-| `menu/diablo.jpg` | Niezweryfikowany | [Pexels][license] | 6994 × 4663 | 4 097 327 |
-| `menu/fiore.jpg` | Niezweryfikowany | [Pexels][license] | 2892 × 3856 | 2 165 439 |
-| `menu/gyros.jpg` | Niezweryfikowany | [Pexels][license] | 6579 × 4390 | 2 868 687 |
-| `menu/hawai.jpg` | Niezweryfikowany | [Pexels][license] | 5043 × 3426 | 2 755 085 |
-| `menu/peperoni.jpg` | Niezweryfikowany | [Pexels][license] | 2460 × 2460 | 959 715 |
-| `menu/prosciutto.jpg` | Niezweryfikowany | [Pexels][license] | 3456 × 4608 | 5 502 119 |
-| `menu/spinaci.jpg` | Niezweryfikowany | [Pexels][license] | 6929 × 4620 | 3 734 925 |
-| `menu/torino.jpg` | Niezweryfikowany | [Pexels][license] | 8192 × 5464 | 2 262 567 |
-| `menu/oliwki.jpg` | Niezweryfikowany | [Pexels][license] | 3024 × 4032 | 1 691 954 |
-| `menu/caprese.jpg` | Niezweryfikowany | [Pexels][license] | 3857 × 2571 | 1 467 007 |
-| `menu/bruschetta.jpg` | Niezweryfikowany | [Pexels][license] | 8448 × 6336 | 5 923 725 |
+| `interior/bar.jpg` | Niezweryfikowany | [Pexels][license] | 1330 × 888 | 460 544 |
+| `interior/sala.jpg` | Niezweryfikowany | [Pexels][license] | 748 × 1330 | 247 530 |
+| `menu/woda.jpg` | Niezweryfikowany | [Pexels][license] | 816 × 1330 | 116 887 |
+| `menu/espresso.jpg` | Niezweryfikowany | [Pexels][license] | 614 × 1330 | 162 676 |
+| `menu/lemoniada.jpg` | Niezweryfikowany | [Pexels][license] | 950 × 1330 | 233 284 |
+| `menu/panna_cotta.jpg` | Niezweryfikowany | [Pexels][license] | 997 × 1330 | 209 952 |
+| `menu/tiramisu.jpg` | Niezweryfikowany | [Pexels][license] | 1330 × 1064 | 354 063 |
+| `menu/ortolana.jpg` | Niezweryfikowany | [Pexels][license] | 1330 × 886 | 320 035 |
+| `menu/funghi.jpg` | Niezweryfikowany | [Pexels][license] | 1330 × 886 | 263 924 |
+| `menu/salame.jpg` | Niezweryfikowany | [Pexels][license] | 1330 × 888 | 352 668 |
+| `menu/margherita.jpg` | Niezweryfikowany | [Pexels][license] | 997 × 1330 | 354 752 |
+| `menu/capriciosa.jpg` | Niezweryfikowany | [Pexels][license] | 1330 × 886 | 342 394 |
+| `menu/diablo.jpg` | Niezweryfikowany | [Pexels][license] | 1330 × 886 | 339 855 |
+| `menu/fiore.jpg` | Niezweryfikowany | [Pexels][license] | 997 × 1330 | 531 764 |
+| `menu/gyros.jpg` | Niezweryfikowany | [Pexels][license] | 1330 × 887 | 267 590 |
+| `menu/hawai.jpg` | Niezweryfikowany | [Pexels][license] | 1330 × 903 | 397 211 |
+| `menu/peperoni.jpg` | Niezweryfikowany | [Pexels][license] | 1330 × 1330 | 587 726 |
+| `menu/prosciutto.jpg` | Niezweryfikowany | [Pexels][license] | 997 × 1330 | 453 827 |
+| `menu/spinaci.jpg` | Niezweryfikowany | [Pexels][license] | 1330 × 886 | 245 818 |
+| `menu/torino.jpg` | Niezweryfikowany | [Pexels][license] | 1330 × 887 | 263 079 |
+| `menu/oliwki.jpg` | Niezweryfikowany | [Pexels][license] | 997 × 1330 | 388 537 |
+| `menu/caprese.jpg` | Niezweryfikowany | [Pexels][license] | 1330 × 886 | 353 034 |
+| `menu/bruschetta.jpg` | Niezweryfikowany | [Pexels][license] | 1330 × 997 | 327 697 |
 
 [license]: https://www.pexels.com/license/
 
